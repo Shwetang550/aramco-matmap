@@ -10,28 +10,28 @@ interface Data {
 
 const data: Data[] = [
     {
-        imgSrc: "/assets/carousel/google.svg"
-    },
-    {
-        imgSrc: "/assets/carousel/aston-martin.png"
+        imgSrc: "/assets/carousel/aramco.png"
     },
     {
         imgSrc: "/assets/carousel/aramco.png"
     },
     {
-        imgSrc: "/assets/carousel/mavinglobal.svg"
-    },
-    {
-        imgSrc: "/assets/carousel/google.svg"
-    },
-    {
-        imgSrc: "/assets/carousel/aston-martin.png"
+        imgSrc: "/assets/carousel/aramco.png"
     },
     {
         imgSrc: "/assets/carousel/aramco.png"
     },
     {
-        imgSrc: "/assets/carousel/mavinglobal.svg"
+        imgSrc: "/assets/carousel/aramco.png"
+    },
+    {
+        imgSrc: "/assets/carousel/aramco.png"
+    },
+    {
+        imgSrc: "/assets/carousel/aramco.png"
+    },
+    {
+        imgSrc: "/assets/carousel/aramco.png"
     }
 ]
 
