@@ -44,11 +44,13 @@ const Navbar = () => {
                                     className="block h-12 w-40 lg:hidden"
                                     src={'/assets/logo/logo.svg'}
                                     alt="matmap-logo"
+                                    style={{height: '70px'}}
                                 />
                                 <img
                                     className="hidden h-full w-full lg:block"
                                     src={'/assets/logo/logo.svg'}
-                                    alt="dsign-logo"
+                                    alt="matmap-logo"
+                                    style={{height: '70px'}}
                                 />
                             </div>
 
