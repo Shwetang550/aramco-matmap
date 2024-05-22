@@ -27,7 +27,7 @@ const Banner = () => {
                         
                     </div>
 
-                    <Image src={'/assets/banner/matmap-mockup.png'} alt="banner-image" width={1200} height={598} />
+                    <Image src={'/assets/banner/matmap-mockup-vmake.png'} alt="banner-image" width={1200} height={598} />
                 </div>
             </div>
         </main>
