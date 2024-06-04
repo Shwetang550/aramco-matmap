@@ -9,7 +9,7 @@ const Banner = () => {
                 <div className="mx-auto max-w-7xl pt-16 sm:pt-20 pb-20 banner-image">
                     <div className="text-center">
                         <h1 className="text-4xl font-semibold text-navyblue sm:text-5xl  lg:text-7xl md:4px lh-96">
-                            Material supply resource<br />planner system.
+                            Material Supply Visualization,<br />modeling and simulation app.
                         </h1>
                         <p className="mt-6 text-lg leading-8 text-bluegray">
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br />Lorem Ipsum has been the industry.
